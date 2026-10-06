@@ -1,10 +1,14 @@
 <div align="center">
 
-# Sky8net
+# SKY8NET
 
-### Full-Stack Developer · AI Product Builder · Creative Technologist
+### AI · SOFTWARE · PRODUCT · CREATIVE TECHNOLOGY
 
-I design and build **real digital products** across AI, full-stack web development, automation, product design, and creative technology.
+**I build digital products from idea to production.**
+
+AI-powered applications, SaaS platforms, automation systems and immersive web experiences.
+
+<br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sky8net)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -16,254 +20,214 @@ I design and build **real digital products** across AI, full-stack web developme
 
 ---
 
-## What I do
+## The builder behind the projects
 
-I work where **software, AI, design, automation and real-world workflows meet**.
+I work at the intersection of **AI, full-stack engineering, product design and automation**.
 
-My focus is not only writing code. I turn ideas into products with a complete path from **concept → UX → architecture → data → authentication → deployment → iteration**.
+I enjoy taking an idea that starts as a rough concept and turning it into a system that has:
 
-### Core areas
+```text
+A clear problem
+     ↓
+A useful product
+     ↓
+A polished interface
+     ↓
+A real backend
+     ↓
+Reliable data
+     ↓
+Authentication & roles
+     ↓
+Production deployment
+     ↓
+Continuous improvement
+```
 
-- 🤖 AI-powered products, LLM integrations, agents and intelligent workflows
-- 🌐 Full-stack web applications and SaaS platforms
-- ⚙️ Automation, APIs, integrations and operational systems
-- 🧩 Product architecture, dashboards and multi-tenant platforms
-- 🎨 UI/UX, visual systems and interactive digital experiences
-- 🎬 Creative technology, video, audio and visual storytelling
+My goal is not to collect technologies.
 
----
-
-## Selected products & builds
-
-| Project | What it is | Status |
-|---|---|---|
-| **EQMENU** | Digital menu + cafe/restaurant management SaaS | 🟢 Active |
-| **AIHUB** | Persian AI discovery, tools directory, learning and content platform | 🟢 Active |
-| **WP-GPT** | WordPress themes & plugins discovery/download platform | 🟢 Active |
-| **CineGuide** | Persian-first movie & TV discovery platform | 🟢 Active |
-| **Charity** | Charity registration, campaigns, applications and administration | 🟢 Active |
-| **ShootingZ** | Shooting training, competition, scheduling and management platform | 🟢 Active |
-| **Investment Time Machine** | Interactive investment analysis and scenario exploration | 🟢 Active |
-| **Aseman** | Professional company website and business/admin workflows | 🟢 Active |
-| **Personal** | Immersive portfolio and personal digital experience | 🟢 Active |
-
-> Several of these projects are private and are being developed as products rather than public demos.
+**My goal is to build useful products with them.**
 
 ---
 
-## Featured projects
+## 🚀 Featured products
 
 ### 🍽️ EQMENU
 **Digital menu & restaurant operating system**
 
-A SaaS platform for cafes, restaurants and other businesses to manage digital menus and daily operations.
+A multi-tenant SaaS product for cafes, restaurants and food businesses.
 
-**Focus:** multi-tenant SaaS · authentication · dashboards · menu management · ordering · business operations · Cloudflare
+QR ordering, digital menus, inventory and recipes, smart pricing, accounting, employee permissions, table reservations, customer management, SMS campaigns and business reporting are brought together in one system. citeturn309730view0
 
-🌐 **Website:** https://eqmenu.com  
-💻 **Repository:** private
+**Stack:** Next.js · TypeScript · Cloudflare · Database-backed SaaS
+
+🌐 **https://eqmenu.com**
 
 ---
 
 ### 🤖 AIHUB
 **Persian AI discovery & learning platform**
 
-A platform for discovering AI tools, learning through practical exercises, following AI news and building a useful Persian AI knowledge ecosystem.
+A Persian-first ecosystem for discovering AI tools, learning through practical exercises, following AI news and using real prompts and workflows.
 
-**AI directory + learning + practical prompts + discovery + content**
+**Focus:** AI directory · learning · prompts · news · tool discovery · content
 
-💻 **Repository:** private
-
----
-
-### 🧩 WP-GPT
-**WordPress ecosystem discovery platform**
-
-A platform for discovering and downloading WordPress themes and plugins, with structured catalog data, search, categorization and a persistent backend.
-
-**Stack:** Next.js · TypeScript · Neon/PostgreSQL
-
-💻 **Repository:** private
+**Status:** 🟢 Active
 
 ---
 
 ### 🎬 CineGuide
-**Movie & TV discovery for Persian users**
+**Persian-first movie & TV discovery**
 
-A modern movie/series guide with Persian-first UX, localized browsing, search and detailed content pages.
+A modern discovery and guide experience focused on Persian users, with localized search, browsing and detailed title pages.
 
-💻 **Repository:** private
-
----
-
-### ❤️ Charity Platform
-**Digital infrastructure for charities**
-
-A professional platform where charities can register, manage their presence, run campaigns and handle applications and workflows.
-
-**Focus:** authentication · roles · admin review · campaigns · applications · database-backed public pages
-
-💻 **Repository:** private
+**Status:** 🟢 Active
 
 ---
 
-### 🎯 ShootingZ
-**Digital platform for shooting organizations**
+## 🧩 Product portfolio
 
-A professional system covering training, registration, scheduling, competitions, dashboards and operational workflows.
+| Product | Domain | Current direction |
+|---|---|---|
+| **EQMENU** | Restaurant SaaS | 🟢 Product development |
+| **AIHUB** | AI / Education / Media | 🟢 Product development |
+| **WP-GPT** | WordPress ecosystem | 🟢 Product development |
+| **CineGuide** | Movies & TV | 🟢 Product development |
+| **Charity** | Social impact | 🟢 Product development |
+| **ShootingZ** | Sports / Management | 🟢 Product development |
+| **Investment Time Machine** | Data / Finance | 🟢 Product development |
+| **Aseman** | Business / Technology | 🟢 Product development |
+| **Personal** | Portfolio / Creative Tech | 🟢 Product development |
 
-The project is also being extended toward **computer-vision-assisted score detection for 10 m air rifle and air pistol targets**.
-
-💻 **Repository:** private
-
----
-
-### 📈 Investment Time Machine
-**Interactive investment analysis**
-
-A data-driven product for exploring investment scenarios, visualizing outcomes and turning financial assumptions into interactive experiences.
-
-**Stack:** Next.js · TypeScript · Recharts
-
-💻 **Repository:** private
+> Some products are intentionally kept private while they are being developed.
 
 ---
 
-### 🏢 Aseman
-**Digital presence + business operations**
+## ⚡ What has been moving recently
 
-A professional bilingual web platform for an IT/technology company, with modern presentation, authenticated administration and production-oriented infrastructure.
+The repositories are actively evolving rather than sitting as static demos.
 
-🌐 **Website:** https://aseman-ni.ir/  
-💻 **Repository:** private
+**06 Oct 2026 — CineGuide**  
+Persian localization was extended across detail and search experiences.
 
----
+**05 Oct 2026 — Personal**  
+The portfolio experience was enriched with more visual evidence, stronger content density and a more immersive presentation.
 
-## Technical toolbox
+**05 Oct 2026 — WP-GPT**  
+A persistent Neon/PostgreSQL database foundation was added.
 
-### Languages
+**04 Oct 2026 — Investment Time Machine**  
+Production compatibility work included Recharts updates plus static-export-safe sitemap and robots configuration.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)
-
-### Web
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-### Data & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=postgresql&logoColor=111111)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**03 Oct 2026 — AIHUB**  
+Data integrity validation was added and integrated into the production build workflow.
 
 ---
 
-## AI & automation
+## 🛠️ Engineering focus
 
-I use AI as both a **development tool** and a **product capability**.
+### AI
 
-Current areas of interest:
+LLMs · AI Applications · Agents · Tool Calling · Conversational AI · AI Automation · Computer Vision · Local AI
 
-- Large Language Models
-- AI application architecture
-- AI agents and tool calling
-- Conversational AI
-- AI-assisted development
-- AI content systems
-- Intelligent automation
-- API integrations
-- Computer vision
-- Local/self-hosted AI workflows
+### Product engineering
 
-> **Build useful systems, not just AI demos.**
+Next.js · React · TypeScript · Python · Node.js · PHP
 
----
+### Data & infrastructure
 
-## Product mindset
+PostgreSQL · Neon · MySQL · SQLite · Cloudflare · Vercel
 
-I like this loop:
+### Product systems
 
-```text
-IDEA
-  ↓
-EXPLORE
-  ↓
-DESIGN
-  ↓
-BUILD
-  ↓
-TEST
-  ↓
-MEASURE
-  ↓
-IMPROVE
-  ↓
-SHIP
-```
+Authentication · RBAC · Admin Dashboards · Multi-Tenant SaaS · APIs · Business Workflows
 
-I care about the whole product:
+### Design
 
-**UX → architecture → data → security → performance → deployment → maintainability**
+UI/UX · Responsive Design · Design Systems · Interaction Design · Visual Storytelling
 
 ---
 
-## Creative technology
+## 🤖 AI is a building material
 
-I also work across:
+I use AI in two different ways.
 
-- 🎥 Videography & filmmaking
-- 🎬 Video editing & post-production
-- 🎙️ Audio recording & production
-- 🎨 Visual design & UI/UX
-- 📱 Digital content and interactive experiences
-- 🧠 Creative experimentation with AI
+**As a tool**
 
-This creative background influences how I build software: **engineering should work, and the experience should feel intentional.**
+To research, prototype, code, debug, generate ideas, test workflows and accelerate product development.
 
----
+**As a product capability**
 
-## What I'm building toward
+To build intelligent search, recommendations, assistants, automation, content systems, agents and computer-vision workflows.
 
-**AI + Software + Product Design + Automation + Creative Technology**
+That distinction matters.
 
-My goal is to turn ideas into useful products that solve real problems.
-
-Not just:
-
-> “Can it be built?”
-
-But:
-
-> **“Does it solve a real problem well?”**
+> **I don't want AI sprinkled onto products. I want AI to make the product better.**
 
 ---
 
-## Current focus
+## 🎯 Selected real-world systems
 
-🚀 Production-ready AI products  
-🧠 Agentic workflows and practical AI systems  
-🌐 Modern Next.js applications  
-🗄️ Reliable database-backed products  
-🎨 Stronger UX and visual systems  
-⚙️ AI connected to real operational workflows
+### ShootingZ
+A digital platform for shooting organizations covering training, registration, scheduling, competitions, dashboards and operational workflows.
+
+The project is also moving toward computer-vision-assisted score detection for **10 m air rifle and air pistol** targets.
+
+### Charity
+A professional platform for charities with registration, roles, review workflows, campaigns, applications and public database-backed pages.
+
+### Aseman
+A professional bilingual digital platform for an IT/technology company, combining public presentation with authenticated business administration.
+
+### Investment Time Machine
+An interactive, data-driven experience for exploring investment scenarios and making complex financial assumptions easier to understand.
+
+---
+
+## 🎥 Creative technology
+
+Software is only part of what I build.
+
+My creative background includes:
+
+**Videography · Filmmaking · Audio Recording · Video Editing · Post-Production · UI/UX · Visual Content**
+
+This changes the way I approach software.
+
+I care about hierarchy, rhythm, storytelling, motion, composition and how a user **feels** while using a product.
+
+---
+
+## 🧠 My principles
+
+| Principle | Meaning |
+|---|---|
+| **Build** | Learn by shipping real things |
+| **Simplify** | Complexity should stay behind the interface |
+| **Experiment** | New ideas need real tests |
+| **Iterate** | A good product gets better continuously |
+| **Integrate** | AI, software and design should work together |
+| **Finish** | A product is more than a prototype |
+
+---
+
+## 🔭 Where I'm going
+
+My direction is becoming increasingly clear:
+
+### **AI + Software + Product Design + Automation + Creative Technology**
+
+The long-term goal is to create products that are:
+
+**useful · intelligent · well-designed · scalable · understandable**
+
+Not just impressive in a demo.
 
 ---
 
 <div align="center">
 
-### Code · AI · Design · Creativity
+## CODE · AI · DESIGN · CREATIVITY
 
 **Building ideas into products.**
 
@@ -274,6 +238,6 @@ But:
 
 <br /><br />
 
-<sub>Thanks for visiting my profile. 👋</sub>
+<sub>© 2026 Sky8net</sub>
 
 </div>
