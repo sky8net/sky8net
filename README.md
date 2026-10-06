@@ -1,192 +1,279 @@
-👋 Hey, I'm Sky8net
-Full-Stack Developer • AI Builder • UI/UX Designer • Creative Technologist
+<div align="center">
 
-I build digital experiences by combining code, artificial intelligence, design, automation, and creativity.
+# Sky8net
 
-My work spans across web development, AI-powered applications, automation, bots, UI/UX, and creative media. I enjoy exploring new technologies, experimenting with ideas, and turning concepts into real digital experiences.
+### Full-Stack Developer · AI Product Builder · Creative Technologist
 
-🚀 About Me
-💻 Full-Stack Web Developer
-🤖 AI Builder & AI Enthusiast
-⚙️ Automation & Bot Developer
-🌐 Web & WordPress Developer
-🎨 UI/UX Designer
-🧠 Technology Explorer
-🎬 Filmmaker & Videographer
-🎙️ Audio Recording & Sound
-✂️ Video Editing & Post-Production
+I design and build **real digital products** across AI, full-stack web development, automation, product design, and creative technology.
 
-I enjoy working at the intersection of technology and creativity.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sky8net)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-🧰 Tech Stack
-💻 Programming Languages
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Pascal-00599C?style=for-the-badge&logo=pascal&logoColor=white" /> </p>
-🌐 Web Development
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> </p>
-🗄️ Database & Backend
-<p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> </p>
+</div>
 
-I have experience working with databases, backend logic, APIs, server-side development, and data-driven applications.
+---
 
-🤖 Artificial Intelligence
+## What I do
 
-AI is one of the areas I'm most interested in.
+I work where **software, AI, design, automation and real-world workflows meet**.
 
-I work with modern AI tools and technologies to explore how artificial intelligence can be integrated into real-world applications and workflows.
+My focus is not only writing code. I turn ideas into products with a complete path from **concept → UX → architecture → data → authentication → deployment → iteration**.
 
-Areas of Interest
-🧠 Large Language Models
-🤖 AI Applications
-⚡ AI-assisted Development
-🔗 AI API Integration
-🧩 AI Agents
-⚙️ Intelligent Automation
-💬 Conversational AI
-🛠️ AI Development Tools
-🔬 AI Experiments
-🚀 Emerging AI Technologies
+### Core areas
 
-I don't just use AI — I like building with it.
+- 🤖 AI-powered products, LLM integrations, agents and intelligent workflows
+- 🌐 Full-stack web applications and SaaS platforms
+- ⚙️ Automation, APIs, integrations and operational systems
+- 🧩 Product architecture, dashboards and multi-tenant platforms
+- 🎨 UI/UX, visual systems and interactive digital experiences
+- 🎬 Creative technology, video, audio and visual storytelling
 
-⚙️ Automation & Bots
+---
 
-I enjoy building tools that automate repetitive tasks and make workflows faster and smarter.
+## Selected products & builds
 
-Experience
-🤖 Bot Development
-⚡ Automation Scripts
-🔄 Workflow Automation
-🔗 API Integrations
-🧠 AI-powered Automation
-📡 Data Processing
-🛠️ Custom Tools
-🔌 System Integrations
-🎨 UI/UX & Design
+| Project | What it is | Status |
+|---|---|---|
+| **EQMENU** | Digital menu + cafe/restaurant management SaaS | 🟢 Active |
+| **AIHUB** | Persian AI discovery, tools directory, learning and content platform | 🟢 Active |
+| **WP-GPT** | WordPress themes & plugins discovery/download platform | 🟢 Active |
+| **CineGuide** | Persian-first movie & TV discovery platform | 🟢 Active |
+| **Charity** | Charity registration, campaigns, applications and administration | 🟢 Active |
+| **ShootingZ** | Shooting training, competition, scheduling and management platform | 🟢 Active |
+| **Investment Time Machine** | Interactive investment analysis and scenario exploration | 🟢 Active |
+| **Aseman** | Professional company website and business/admin workflows | 🟢 Active |
+| **Personal** | Immersive portfolio and personal digital experience | 🟢 Active |
 
-I also work on the visual and user-experience side of digital products.
+> Several of these projects are private and are being developed as products rather than public demos.
 
-Design Skills
-🎨 User Interface Design
-🧠 User Experience Design
-🌐 Web Design
-📱 Responsive Design
-🧩 User Flows
-✏️ Wireframing
-🧱 Design Systems
-💡 Product Thinking
-🎯 User-Centered Design
+---
 
-I believe a good product should not only work well — it should also be simple, intuitive, and enjoyable to use.
+## Featured projects
 
-🎬 Filmmaking & Creative Media
+### 🍽️ EQMENU
+**Digital menu & restaurant operating system**
 
-Beyond software and technology, I have experience in creative media and filmmaking.
+A SaaS platform for cafes, restaurants and other businesses to manage digital menus and daily operations.
 
-🎥 Video
-Videography
-Camera Work
-Filmmaking
-Visual Storytelling
-Content Production
-🎙️ Audio
-Audio Recording
-Sound Recording
-Audio Production
-✂️ Post-Production
-Video Editing
-Visual Editing
-Post-Production
-Creative Content
+**Focus:** multi-tenant SaaS · authentication · dashboards · menu management · ordering · business operations · Cloudflare
 
-This creative background helps me approach technology from a different perspective — combining engineering, design, and storytelling.
+🌐 **Website:** https://eqmenu.com  
+💻 **Repository:** private
 
-🧠 My Approach
+---
 
-I like learning by building.
+### 🤖 AIHUB
+**Persian AI discovery & learning platform**
 
-        💡 IDEA
-          │
-          ▼
-      🔍 EXPLORE
-          │
-          ▼
-      🧠 LEARN
-          │
-          ▼
-      🛠️ BUILD
-          │
-          ▼
-      🧪 TEST
-          │
-          ▼
-      ⚡ IMPROVE
-          │
-          ▼
-      🚀 SHIP
+A platform for discovering AI tools, learning through practical exercises, following AI news and building a useful Persian AI knowledge ecosystem.
 
+**AI directory + learning + practical prompts + discovery + content**
 
-I'm always experimenting with new technologies and looking for better ways to solve problems.
+💻 **Repository:** private
 
-🔭 Currently Exploring
-🤖 Artificial Intelligence
-🧠 Large Language Models
-🕸️ AI Agents
-⚡ AI Automation
-🌐 Modern Web Development
-🧩 Full-Stack Architecture
-🎨 Product & UI/UX Design
-🚀 Emerging Technologies
-🎬 Creative Technology
-💻 What I Can Build
-🌐 Modern Websites
-💻 Full-Stack Web Applications
-🤖 AI-Powered Applications
-⚙️ Automation Systems
-🤖 Bots
-🔗 APIs & Integrations
-🧠 AI Agents
-🐍 Python Tools
-📊 Data-Driven Applications
-🎨 Interactive Interfaces
-📱 Digital Products
-🎬 Creative Digital Experiences
+---
 
-🧩 Technologies I Enjoy
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sky8net&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky8net&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
-🐍 Contribution Graph
-<p align="center"> <img src="https://raw.githubusercontent.com/sky8net/sky8net/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </p>
-🌱 Always Learning
+### 🧩 WP-GPT
+**WordPress ecosystem discovery platform**
 
-Technology never stops evolving.
+A platform for discovering and downloading WordPress themes and plugins, with structured catalog data, search, categorization and a persistent backend.
 
-I'm continuously learning, experimenting, and improving my skills across software development, artificial intelligence, design, automation, and creative technology.
+**Stack:** Next.js · TypeScript · Neon/PostgreSQL
 
-I believe the best way to understand technology is to build with it.
+💻 **Repository:** private
 
-💭 Philosophy
+---
 
-Build things that are useful.
+### 🎬 CineGuide
+**Movie & TV discovery for Persian users**
 
-Learn things that matter.
+A modern movie/series guide with Persian-first UX, localized browsing, search and detailed content pages.
 
-Stay curious.
+💻 **Repository:** private
 
-Keep creating.
+---
 
-🚀 The Bigger Picture
+### ❤️ Charity Platform
+**Digital infrastructure for charities**
 
-My goal is to combine different disciplines instead of limiting myself to a single one.
+A professional platform where charities can register, manage their presence, run campaigns and handle applications and workflows.
 
-Code + AI + Design + Creativity
+**Focus:** authentication · roles · admin review · campaigns · applications · database-backed public pages
 
-That's where I enjoy building.
+💻 **Repository:** private
 
-<p align="center">
-⚡ Code • AI • Design • Creativity
+---
 
-Building ideas into digital experiences.
+### 🎯 ShootingZ
+**Digital platform for shooting organizations**
 
-</p>
-<p align="center"> <sub>Thanks for visiting my profile. 👋</sub> </p>
+A professional system covering training, registration, scheduling, competitions, dashboards and operational workflows.
+
+The project is also being extended toward **computer-vision-assisted score detection for 10 m air rifle and air pistol targets**.
+
+💻 **Repository:** private
+
+---
+
+### 📈 Investment Time Machine
+**Interactive investment analysis**
+
+A data-driven product for exploring investment scenarios, visualizing outcomes and turning financial assumptions into interactive experiences.
+
+**Stack:** Next.js · TypeScript · Recharts
+
+💻 **Repository:** private
+
+---
+
+### 🏢 Aseman
+**Digital presence + business operations**
+
+A professional bilingual web platform for an IT/technology company, with modern presentation, authenticated administration and production-oriented infrastructure.
+
+🌐 **Website:** https://aseman-ni.ir/  
+💻 **Repository:** private
+
+---
+
+## Technical toolbox
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)
+
+### Web
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+### Data & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=postgresql&logoColor=111111)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## AI & automation
+
+I use AI as both a **development tool** and a **product capability**.
+
+Current areas of interest:
+
+- Large Language Models
+- AI application architecture
+- AI agents and tool calling
+- Conversational AI
+- AI-assisted development
+- AI content systems
+- Intelligent automation
+- API integrations
+- Computer vision
+- Local/self-hosted AI workflows
+
+> **Build useful systems, not just AI demos.**
+
+---
+
+## Product mindset
+
+I like this loop:
+
+```text
+IDEA
+  ↓
+EXPLORE
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+MEASURE
+  ↓
+IMPROVE
+  ↓
+SHIP
+```
+
+I care about the whole product:
+
+**UX → architecture → data → security → performance → deployment → maintainability**
+
+---
+
+## Creative technology
+
+I also work across:
+
+- 🎥 Videography & filmmaking
+- 🎬 Video editing & post-production
+- 🎙️ Audio recording & production
+- 🎨 Visual design & UI/UX
+- 📱 Digital content and interactive experiences
+- 🧠 Creative experimentation with AI
+
+This creative background influences how I build software: **engineering should work, and the experience should feel intentional.**
+
+---
+
+## What I'm building toward
+
+**AI + Software + Product Design + Automation + Creative Technology**
+
+My goal is to turn ideas into useful products that solve real problems.
+
+Not just:
+
+> “Can it be built?”
+
+But:
+
+> **“Does it solve a real problem well?”**
+
+---
+
+## Current focus
+
+🚀 Production-ready AI products  
+🧠 Agentic workflows and practical AI systems  
+🌐 Modern Next.js applications  
+🗄️ Reliable database-backed products  
+🎨 Stronger UX and visual systems  
+⚙️ AI connected to real operational workflows
+
+---
+
+<div align="center">
+
+### Code · AI · Design · Creativity
+
+**Building ideas into products.**
+
+<br />
+
+[![GitHub followers](https://img.shields.io/github/followers/sky8net?style=for-the-badge&logo=github)](https://github.com/sky8net)
+[![GitHub stars](https://img.shields.io/github/stars/sky8net?style=for-the-badge&logo=github)](https://github.com/sky8net)
+
+<br /><br />
+
+<sub>Thanks for visiting my profile. 👋</sub>
+
+</div>
